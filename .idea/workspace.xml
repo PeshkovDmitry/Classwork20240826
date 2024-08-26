@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f88b803-cfcb-4abc-bb92-ad69b702fc50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Classwork20240826.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task06.py" afterDir="false" />
+    <list default="true" id="6f88b803-cfcb-4abc-bb92-ad69b702fc50" name="Changes" comment="Решена задача 2">
+      <change beforePath="$PROJECT_DIR$/Task02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PeshkovDmitry"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PeshkovDmitry/Classwork20240826.git",
+    "accountId": "6eceb837-9f72-41af-bbc5-cd4f0f94b2dc"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -47,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Task01.executor": "Run",
+    "Python.Task02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/dmitry/PycharmProjects/Classwork20240826"
@@ -73,6 +75,28 @@
       <option name="presentableId" value="Default" />
       <updated>1724667510140</updated>
     </task>
+    <task id="LOCAL-00001" summary="Решена задача 1">
+      <option name="closed" value="true" />
+      <created>1724668270787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724668270787</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Решена задача 2">
+      <option name="closed" value="true" />
+      <created>1724668751579</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724668751579</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Решена задача 1" />
+    <MESSAGE value="Решена задача 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решена задача 2" />
   </component>
 </project>
