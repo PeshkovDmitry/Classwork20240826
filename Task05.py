@@ -28,7 +28,7 @@ class Bird:
     def info(self):
         return f"Вид: {self.__genus}, возраст: {self.__age} лет, высота полета: {self.__height_of_flying} м"
 
-class Animal:
+class Mammal:
 
     def __init__(self, genus: str, age: int, speed_of_running: int):
         self.__genus = genus
@@ -41,7 +41,7 @@ class Animal:
 
 f = Fish("Карась", 1, 2)
 b = Bird("Ласточка", 2, 200)
-a = Animal("Гепард", 5, 100)
+m = Mammal("Гепард", 5, 100)
 print(f.info())
 print(b.info())
-print(a.info())
+print(m.info())
